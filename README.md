@@ -1,7 +1,11 @@
 Simple react js fetch example to get data from an API.
 
 ## Usage
-You need node js installed on your computer to start this application.
+* You need node js installed on your computer to start this application.
+* You need git installed on your computer to download this repo.
+
+### Download
+```https://github.com/nordin-johan/tutorial-reactjs-fetch.git```
 
 ### Install
 ```npm install```
