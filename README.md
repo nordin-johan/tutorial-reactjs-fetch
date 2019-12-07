@@ -5,7 +5,7 @@ Simple react js fetch example to get data from an API.
 * You need git installed on your computer to download this repo.
 
 ### Download
-```https://github.com/nordin-johan/tutorial-reactjs-fetch.git```
+```git clone https://github.com/nordin-johan/tutorial-reactjs-fetch.git```
 
 ### Install
 ```npm install```
